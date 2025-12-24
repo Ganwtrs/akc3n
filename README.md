@@ -23,7 +23,7 @@ I love being outdoors, exploring nature, biking the forestry trails in the Okana
 [Best User Profile Setup on GrapheneOS](https://seprand.github.io/articles/best-user-profile-setup)
 - Common setups explained
 
-## Banking apps compatibility GrapheneOS
+## Banking apps' compatibility — GrapheneOS
 
 [International banking apps](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/#international-banking-apps)  
 [National banking apps](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/#national-banking-apps)
@@ -31,7 +31,7 @@ I love being outdoors, exploring nature, biking the forestry trails in the Okana
 > [!IMPORTANT]
 > [GrapheneOS](https://grapheneos.org/usage#:~:text=does%20not%20make%20any%20guarantees) does not make any guarantees regarding the list's validity.
 
-### PrivSec-dev
+### PrivSec.dev
 
 [`Banking-apps-compat-report / issue-tracker`](https://github.com/PrivSec-dev/banking-apps-compat-report/issues)  
 [`Play Integrity - Info and next steps`](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/342)
